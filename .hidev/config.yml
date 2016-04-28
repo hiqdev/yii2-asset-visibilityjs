@@ -1,0 +1,5 @@
+package:
+    type:           yii2-extenstion
+    name:           yii2-asset-visibilityjs
+    title:          Yii2 Asset Visibilityjs
+    keywords:       yii2, asset, visibilityjs
