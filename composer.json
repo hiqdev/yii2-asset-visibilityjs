@@ -43,7 +43,7 @@
         }
     ],
     "require": {
-        "bower-asset/visibilityjs": "*"
+        "bower-asset/visibilityjs": "1.2.3"
     },
     "require-dev": {
         "hiqdev/hidev-php": "<2.0",
