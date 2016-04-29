@@ -1,6 +1,11 @@
 hiqdev/yii2-asset-visibilityjs commits history
 ----------------------------------------------
 
+## 1.2.3.1 2016-04-29
+
+- Fixed namespace
+    - 34d53d5 2016-04-29 Fixed namespace (d.naumenko.a@gmail.com)
+
 ## 1.2.3 2016-04-29
 
 - Added basics

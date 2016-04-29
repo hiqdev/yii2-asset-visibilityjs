@@ -1,6 +1,10 @@
 hiqdev/yii2-asset-visibilityjs changelog
 ----------------------------------------
 
+## 1.2.3.1 2016-04-29
+
+- Fixed namespace
+
 ## 1.2.3 2016-04-29
 
 - Added basics
