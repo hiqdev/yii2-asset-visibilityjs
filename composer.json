@@ -51,7 +51,13 @@
     },
     "autoload": {
         "psr-4": {
-            "hiqdev\\yii2\\asset\\visibilityjs\\": "src"
+            "hiqdev\\assets\\visibilityjs\\": "src"
         }
-    }
+    },
+    "repositories": [
+        {
+            "type": "composer",
+            "url": "https://asset-packagist.hiqdev.com"
+        }
+    ]
 }

@@ -3,3 +3,4 @@ package:
     name:           yii2-asset-visibilityjs
     title:          Yii2 Asset Visibilityjs
     keywords:       yii2, asset, visibilityjs
+    namespace:      hiqdev\assets\visibilityjs
