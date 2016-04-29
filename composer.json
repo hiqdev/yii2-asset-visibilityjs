@@ -42,6 +42,9 @@
             "homepage": "http://hiqdev.com/"
         }
     ],
+    "require": {
+        "bower-asset/visibilityjs": "*"
+    },
     "require-dev": {
         "hiqdev/hidev-php": "<2.0",
         "hiqdev/hidev-vendor": "<2.0"
