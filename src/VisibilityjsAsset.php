@@ -10,13 +10,14 @@
  */
 
 namespace hiqdev\assets\visibilityjs;
+use yii\web\AssetBundle;
 
 /**
  * Yii2 asset bundle for VisibilityJS plugin.
  *
  * @url https://github.com/ai/visibilityjs
  */
-class VisibilityjsAsset extends \yii\web\AssetBundle
+class VisibilityjsAsset extends AssetBundle
 {
     /**
      * {@inheritdoc}
