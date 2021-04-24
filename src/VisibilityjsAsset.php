@@ -10,6 +10,7 @@
  */
 
 namespace hiqdev\assets\visibilityjs;
+
 use yii\web\AssetBundle;
 
 /**
